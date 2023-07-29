@@ -1,4 +1,5 @@
 ## BattleModJ
+Japanese version of Windower4 battlemod addon
 
 BattleMod‚ðˆê•”“ú–{Œê‰»‚µ‚½‚à‚Ì‚Å‚·BƒAƒrƒŠƒeƒB–¼‚â–‚–@–¼‚È‚Ç‚ÌŠeŽíƒAƒNƒVƒ‡ƒ““à—e‚âƒƒbƒZ[ƒW‚ª“ú–{Œê‚Å•\Ž¦‚³‚ê‚Ü‚·B
 
@@ -11,7 +12,7 @@ BattleMod‚ÍŽå‚Éí“¬ƒƒbƒZ[ƒW‚ð‰ÁH‚µ‚ÄŒ©‚â‚·‚­‚µ‚Ä‚­‚ê‚éƒAƒhƒIƒ“‚ÅAˆÈ‰º‚Ì‚æ‚¤‚
 
 ### •ÏX“à—e
 BattleMod‚Å‚Í‰ÁHŒã‚ÌƒƒbƒZ[ƒW‚ª‰pŒê‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚·‚ªA‰ÁHŒã‚Ì•¶Žš—ñ‚ð“ú–{Œê‚É‚·‚é ‚ ‚é‚¢‚Í ƒAƒhƒIƒ““à‚Å‰ÁH‚¹‚¸‚ÉƒXƒ‹[‚³‚¹‚é‚æ‚¤‚É‚µ‚ÄƒNƒ‰ƒCƒAƒ“ƒg‚ÌŽ‚ÂƒƒbƒZ[ƒW‚ð‚»‚Ì‚Ü‚Ü•\Ž¦‚³‚¹‚é ‚Æ‚¢‚Á‚½•ÏX‚É‚æ‚è“ú–{Œê‰»‚ðs‚Á‚Ä‚¢‚Ü‚·BŒ‹‰Ê‚Æ‚µ‚Ä“Y•t‰æ‘œ‚Ì‚æ‚¤‚ÈƒƒO‚É‚È‚è‚Ü‚·B
-‚È‚¨A•ÏXŒã‚Ì“®ìŠm”F‚ÍƒfƒtƒHƒ‹ƒgÝ’è‚©‚Âˆê•”‚ÌƒƒbƒZ[ƒWŽí—Þ‚É‘Î‚µ‚Ä‚Ì‚Ýs‚Á‚Ä‚¢‚Ü‚·‚Ì‚Å‚²—¹³‚­‚¾‚³‚¢B
+‚È‚¨A•ÏXŒã‚Ì“®ìŠm”F‚ÍƒfƒtƒHƒ‹ƒgÝ’è‚©‚Âˆê•”‚ÌƒƒbƒZ[ƒWŽí—Þ‚É‘Î‚µ‚Ä‚Ì‚Ýs‚Á‚Ä‚¢‚Ü‚·B
 
 ### Žg—p•û–@
 Windower4ƒtƒHƒ‹ƒ_“à‚É `addons/battlemodj/battlemodj.lua`(zipƒtƒ@ƒCƒ‹“à‚Ì‘¼‚Ìƒtƒ@ƒCƒ‹‚à“¯—l) ‚Æ‚È‚é‚æ‚¤‚É”z’u‚µA`lua l battlemodj` ‚Åƒ[ƒh‚µ‚Ä‚­‚¾‚³‚¢B
